@@ -17,4 +17,3 @@ Automatizar processos com ferramentas como Docker, Jenkins, GitHub Actions, entr
 Monitorar e manter aplicações em ambientes produtivos com observabilidade e resiliência;
 
 Trabalhar com infraestrutura como código utilizando ferramentas como Terraform e Ansible;
-
