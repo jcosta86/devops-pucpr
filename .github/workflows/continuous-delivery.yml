@@ -15,7 +15,7 @@ jobs:
         with:
             name: projeto.zip
             path: |
-              '**.py'
+              **.py
               README.md
   deploy:
     runs-on: ubuntu-latest
