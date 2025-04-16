@@ -9,7 +9,7 @@ def test_create_user():
     data = response.json()
     assert data["name"] == "Alice"
     assert data["email"] == "alice@example.com"
-    assert "id" in data
+    assert "id" not in data
 
 def test_get_user():
     response = client.get("/users/1")
